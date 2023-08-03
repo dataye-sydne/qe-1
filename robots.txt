@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://dataye-sydne.github.io/qe-1/sitemap.xml
